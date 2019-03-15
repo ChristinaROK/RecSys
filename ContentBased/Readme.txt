@@ -1,11 +1,14 @@
-ContentKNNAlogrithm: genre, year, misensen similarity and estimator(rating for certain movie by weighted sum)
+# File Description
+- ContentKNNAlogrithm.py: genre, year, misensen similarity and estimator(rating for certain movie by weighted sum)
+- item similarity function tutorial: tutorial of functions in ContentKNNAlogorithm.py
 
-ContentRecs: 실제 구현 코드 (print evaluation metrics)
+- ContentRecs.ipynb: operating file (print evaluation metrics)
 
-EvaluatedAlgorithm(parent)
-EvaluationData(parent)
-->Evaluator: evaluation metrics
+- EvaluatedAlgorithm.py(parent)
+- EvaluationData.py(parent)
+- Evaluator.py: evaluation metrics
 
-MovieLens: data
+- MovieLens.py: data
 
-RecommenderMerics: ?
+- RecommenderMerics.py: ?
+
