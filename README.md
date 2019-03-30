@@ -15,3 +15,9 @@
        basic recommedation function 구현 (item의 `n_click` 기반)
        승진 승민 과제: session-based algorithm 찾기
        보정 효선 과제: feature engineering 하기
+- 3/14: ??
+- 3/21: feature engineering공유, content-based (n_click, item_properties)
+- 3/28: 중간발표
+
+# Personal Study Timestamp
+- 3/30: CF 모델 쓰기 위해서는 user * item sparse matrix가 필요함. 어떻게 만들 것인지 공부했다. 
