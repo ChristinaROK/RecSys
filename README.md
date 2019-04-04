@@ -18,6 +18,15 @@
 - 3/14: ??
 - 3/21: feature engineering공유, content-based (n_click, item_properties)
 - 3/28: 중간발표
+- 4/4: Algorithm 공유, timeline 정하기
+- 4/5: 1. content based 이용해 item feature로 similarity matrix 생성(보정, 효선) 2. svd++ 모델 논문 읽고 구현
+- 4/11: (전체회의) item similarity matrix와 algorithm 공유 
+- 4/12: 1. collaborative filtering matrix 생성 2. MF 모델 구현
+- 4/28: *Baseline Algorithm D-day : score 점수 내기
+
+-5월 6월: baseline algorithm에서 ranking score 높이기 작업 
+
+- 6/30: *leaderboard End
 
 # Personal Study Timestamp
 - 3/30: [Collaborative Filtering] 모델 쓰기 위해서는 user * item sparse matrix가 필요함. 어떻게 만들 것인지 공부했다. 
