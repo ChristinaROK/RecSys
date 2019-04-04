@@ -20,4 +20,5 @@
 - 3/28: 중간발표
 
 # Personal Study Timestamp
-- 3/30: CF 모델 쓰기 위해서는 user * item sparse matrix가 필요함. 어떻게 만들 것인지 공부했다. 
+- 3/30: [Collaborative Filtering] 모델 쓰기 위해서는 user * item sparse matrix가 필요함. 어떻게 만들 것인지 공부했다. 
+- 4/4: [Matrix Factorization] pca 공부, svd, svd++ 모델 공부 
