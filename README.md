@@ -32,3 +32,4 @@
 - 3/30: [Collaborative Filtering] 모델 쓰기 위해서는 user * item sparse matrix가 필요함. 어떻게 만들 것인지 공부했다. 
 - 4/4: [Matrix Factorization] pca 공부, svd, svd++ 모델 공부 
 - 4/5: [Matrix Factorization] surprise package에 svd 쓰기 위해 dataset (user_id, item_id, rating)만듦. /rating을 만들기 위해 고민했는데 session-based 기 때문에 다른 approach를 선택해야한다는 생각이 들었다. RNN?!/ RNN논문 읽기 
+- 4/25: [EDA] 모델링을 위해 데이터 EDA 다시 실행. user action pattern을 보기위해 특정 유저들의 행동 변화를 트리바고 사이트에서 확인함.
