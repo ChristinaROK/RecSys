@@ -23,6 +23,7 @@
 - 4/11: (전체회의) item similarity matrix와 algorithm 공유 
 - 4/12: 1. collaborative filtering matrix 생성 2. MF 모델 구현
 - 4/28: *Baseline Algorithm D-day : score 점수 내기
+- 5/6: submission #1 : [public score 0.591]
 
 -5월 6월: baseline algorithm에서 ranking score 높이기 작업 
 
@@ -33,3 +34,4 @@
 - 4/4: [Matrix Factorization] pca 공부, svd, svd++ 모델 공부 
 - 4/5: [Matrix Factorization] surprise package에 svd 쓰기 위해 dataset (user_id, item_id, rating)만듦. /rating을 만들기 위해 고민했는데 session-based 기 때문에 다른 approach를 선택해야한다는 생각이 들었다. RNN?!/ RNN논문 읽기 
 - 4/25: [EDA] 모델링을 위해 데이터 EDA 다시 실행. user action pattern을 보기위해 특정 유저들의 행동 변화를 트리바고 사이트에서 확인함.
+- 5/4 : [Modeling] 모델 공부를 하다가 문득 데이터의 x와 y를 제대로 이해해야 맞는 모델을 구축할 수 있다는 생각이 들었다. 그래서 EDA를 다시 해본 결과 user가 'clickout'하기 직전까지 interaction한 item을 사겠다는 생각이 들어서 number of interaction을 기준으로 sorting 했다. [Public Score: 0.591]
