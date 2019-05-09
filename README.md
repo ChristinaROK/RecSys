@@ -24,8 +24,9 @@
 - 4/12: 1. collaborative filtering matrix 생성 2. MF 모델 구현
 - 4/28: *Baseline Algorithm D-day : score 점수 내기
 - 5/6: submission #1 : [public score 0.591]
+- 5/9 : (회의) baseline model에서 ranking 높이는 방법을 회의함. -> baseline에서 interaction하지 않은 item은 item similiarity로 ranking 매기기. [역할분배: 승진: item meta data에서 item property df 만들기 / 승민: item dwelling time feature생성 / 효선: item similarity ranking function구현] (5/15 수까지 submission해서 score 내기)
+- 5/16 : (중간정검 boaz)
 
--5월 6월: baseline algorithm에서 ranking score 높이기 작업 
 
 - 6/30: *leaderboard End
 
