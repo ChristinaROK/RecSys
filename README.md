@@ -26,6 +26,7 @@
 - 5/6: submission #1 : [public score 0.591]
 - 5/9 : (회의) baseline model에서 ranking 높이는 방법을 회의함. -> baseline에서 interaction하지 않은 item은 item similiarity로 ranking 매기기. [역할분배: 승진: item meta data에서 item property df 만들기 / 승민: item dwelling time feature생성 / 효선: item similarity ranking function구현] (5/15 수까지 submission해서 score 내기)
 - 5/11 : submission #2 : [public score 0.596] baseline + item similarity with cosine (L2)
+- 5.15 : submission #3 : [public score 0.61] train.csv를 user_id 기반으로 test.csv와 합쳐 reference 빈도로 sorting
 - 5/16 : (중간정검 boaz)
 
 
